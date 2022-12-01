@@ -1,0 +1,2 @@
+# study
+python code trainning
